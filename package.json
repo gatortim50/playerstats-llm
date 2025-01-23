@@ -1,0 +1,16 @@
+{
+  "name": "chat-app",
+  "private": false,
+  "workspaces": ["apps/*"],
+  "packageManager": "npm@8.19.2",
+  "devDependencies": {
+    "turbo": "^2.3.3"
+  },
+  "scripts": {
+    "db:setup": "npx turbo db:run",
+    "db:prisma": "npx turbo prisma:generate",
+    "dev": "npx turbo dev",
+    "test": "npx turbo test",
+    "db": "npm run db:setup && npm run db:prisma"
+  }
+}

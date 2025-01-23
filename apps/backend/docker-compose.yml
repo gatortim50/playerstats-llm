@@ -1,0 +1,13 @@
+services:
+  mongo:
+    build:
+      context: ./mongodb_replica
+      args:
+        MONGO_VERSION: 4
+    environment:
+      MONGO_REPLICA_HOST: 127.0.0.1
+      MONGO_REPLICA_PORT: 27018
+      # Use "mongo" instead of "mongosh" before v5.0
+      MONGO_COMMAND: 'mongo'
+    ports:
+      - '27018:27018'
