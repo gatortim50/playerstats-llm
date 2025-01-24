@@ -1,24 +1,20 @@
-import { defineConfig } from 'vitest/config';
-import react from '@vitejs/plugin-react-swc';
-import tsConfigPaths from 'vite-tsconfig-paths';
+/// <reference types="vitest" />
+/// <reference types="vite/client" />
+
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+import path from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  build: {
-    outDir: 'dist',
-  },
-  plugins: [react(), tsConfigPaths()],
-  server: {
-    open: true, // Opens the default browser when the server starts
-    port: 3000,
+  plugins: [react()],
+  resolve: {
+    alias: {
+      '@': path.resolve(__dirname, './src'),
+    },
   },
   test: {
-    alias: {
-      '@/': new URL('./apps/frontend/src/', import.meta.url).pathname,
-    },
-    environment: 'jsdom',
-    include: ['**/*.test.*', '**/*.spec.*'],
     globals: true,
-    setupFiles: ['./setup-tests.ts'],
+    environment: 'jsdom',
   },
-});
+})
