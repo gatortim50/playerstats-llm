@@ -20,6 +20,10 @@
       "test": {
         "cache": false,
         "outputs": []
+      },
+      "prisma:seed": {
+        "cache": false,
+        "outputs": []
       }
     }
   }
