@@ -7,9 +7,12 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model Message {
+model PlayerStats {
   id        String   @id @default(auto()) @map("_id") @db.ObjectId
-  content   String
-  name  String
-  createdAt Int    @default(0)
+  rank        Int
+  player      String
+  ageThatYear Int
+  hits        Int
+  year        Int
+  bats        String
 }
