@@ -152,6 +152,7 @@ Ensure you have a `.env` file in the `backend` workspace with the following:
 ```env
 DATABASE_URL=mongodb://localhost:27018/db
 PORT=8080
+OPEN_AI_KEY=(GPT-4 API KEY)
 ```
 
 ---
