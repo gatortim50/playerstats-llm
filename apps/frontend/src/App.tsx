@@ -1,22 +1,17 @@
-import { ThemeProvider } from '@/theme';
-import StoreProvider from '@/store';
-import { ErrorBoundary } from '@/components';
-import Routes from '@/routes';
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Home from './pages/home';
+import Details from './pages/details';
 
-/**
- * Root Application Component
- * @component MainApp
- */
-const MainApp = () => {
+const App: React.FC = () => {
   return (
-    <ErrorBoundary name="App">
-      <StoreProvider>
-        <ThemeProvider>
-          <Routes />
-        </ThemeProvider>
-      </StoreProvider>
-    </ErrorBoundary>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/:id" element={<Details />} />
+      </Routes>
+    </Router>
   );
 };
 
-export default MainApp;
+export default App;
