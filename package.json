@@ -11,6 +11,7 @@
     "db:prisma": "npx turbo prisma:generate",
     "dev": "npx turbo dev",
     "test": "npx turbo test",
-    "db": "npm run db:setup && npm run db:prisma"
+    "db": "npm run db:setup && npm run db:prisma",
+    "db:seed": "npx turbo prisma:seed"
   }
 }

@@ -1,19 +1,20 @@
-# **Chat app with Turborepo, Docker, React, Express, Socket.io and Prisma**
+# **Playstas app with Turborepo, Docker, React, Express, Prisma and Open AI(gpt-4 model)**
 
 This monorepo is built using **Turborepo** for managing a multi-package project efficiently. It includes:
 
-- **Frontend**: React, TypeScript, MUI
-- **Backend**: Express, Socket.IO, Prisma
+- **Frontend**: React, TypeScript, Tailwind CSS and Shadcn
+- **Backend**: Express, Prisma
 - **Database**: MongoDB (running in Docker)
+- **LLM**: Open AI (GPT-4)
 
 ---
 
 ## **Features**
-- **Real-time Communication**: Powered by Socket.IO.
 - **Database Management**: MongoDB with Prisma ORM for schema management.
 - **Monorepo Management**: Turborepo for efficient task orchestration across workspaces.
 - **Frontend & Backend**: Integrated React frontend and Express backend.
 - **TypeScript**: Strong typing for both frontend and backend.
+- **LLM**: Generated Player's description using LLM, Open AI (GPT-4)
 
 ---
 
@@ -59,7 +60,13 @@ monorepo-root/
   - Run Prisma migrations (`db:setup`)
   - Generate Prisma client files (`db:prisma`)
 
-#### **2. Development**
+#### **2. Load Initial Data from API**
+- Load data from API(https://api.sampleapis.com/baseball/hitsSingleSeason) and store them into Mongo DB:
+  ```bash
+  npm run db:seed
+  ```
+
+#### **3. Development**
 - Start both the frontend and backend simultaneously:
   ```bash
   npm run dev
@@ -68,17 +75,11 @@ monorepo-root/
   - Start the **frontend** development server.
   - Start the **backend** development server.
 
-#### **3. Tests**
-- Run tests for both the frontend and backend:
-  ```bash
-  npm run test
-  ```
-
 ### **Frontend**
 The frontend is built with:
 - **React**: Component-based UI.
 - **TypeScript**: Type-safe development.
-- **Material-UI**: Component library for styling.
+- **Shadcn-UI**: Component library for styling.
 
 **Frontend Development Server**:
 ```bash
@@ -86,14 +87,13 @@ cd apps/frontend
 npm run dev
 ```
 
-The app will be available at `http://localhost:3000`.
+The app will be available at `http://localhost:5137`.
 
 ---
 
 ### **Backend**
 The backend is built with:
 - **Express**: REST API and server-side logic.
-- **Socket.IO**: Real-time communication.
 - **Prisma**: ORM for database interaction.
 
 **Backend Development Server**:
@@ -102,7 +102,7 @@ cd apps/backend
 npm run dev
 ```
 
-The backend will be available at `http://localhost:3001`.
+The backend will be available at `http://localhost:8080`.
 
 ---
 
@@ -123,6 +123,7 @@ This project uses **Turborepo** to manage tasks across the monorepo.
 - `dev`: Runs both frontend and backend development servers.
 - `db:run`: Runs database migrations.
 - `prisma:generate`: Generates Prisma client.
+- `prisma:seed`: Load initial data and store them into MongoDB from API
 - `test`: Runs tests for all apps.
 
 Example:
@@ -150,7 +151,7 @@ npx turbo run test --filter=backend
 Ensure you have a `.env` file in the `backend` workspace with the following:
 ```env
 DATABASE_URL=mongodb://localhost:27018/db
-PORT=3001
+PORT=8080
 ```
 
 ---
