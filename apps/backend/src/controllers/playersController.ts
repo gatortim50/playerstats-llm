@@ -71,14 +71,12 @@ export const update = asyncHandler(async (req, res) => {
 
 export const getDescription = asyncHandler(async (req, res) => {
   const { id } = req.params;
-  console.log({id})
   try {
     const data = await prisma.playerStats.findUnique({
       where: {
         id,
       }
     });
-    console.log({data})
     if (data) {
       const response = await OpenAIService.getDescription(data);
       
