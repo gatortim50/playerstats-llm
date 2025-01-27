@@ -1,0 +1,4808 @@
+[
+    {
+      "id": "67933dbbb833cbda3d6f6033",
+      "rank": 1,
+      "player": "Ichiro Suzuki",
+      "ageThatYear": 30,
+      "hits": 262,
+      "year": 2004,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6034",
+      "rank": 2,
+      "player": "George Sisler",
+      "ageThatYear": 27,
+      "hits": 257,
+      "year": 1920,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6035",
+      "rank": 3,
+      "player": "Lefty O'Doul",
+      "ageThatYear": 32,
+      "hits": 254,
+      "year": 1929,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6036",
+      "rank": 4,
+      "player": "Bill Terry",
+      "ageThatYear": 31,
+      "hits": 254,
+      "year": 1930,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6037",
+      "rank": 5,
+      "player": "Al Simmons",
+      "ageThatYear": 23,
+      "hits": 252,
+      "year": 1925,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6038",
+      "rank": 6,
+      "player": "Rogers Hornsby",
+      "ageThatYear": 26,
+      "hits": 250,
+      "year": 1922,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6039",
+      "rank": 7,
+      "player": "Chuck Klein",
+      "ageThatYear": 25,
+      "hits": 250,
+      "year": 1930,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f603a",
+      "rank": 8,
+      "player": "Ty Cobb",
+      "ageThatYear": 24,
+      "hits": 248,
+      "year": 1911,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f603b",
+      "rank": 9,
+      "player": "George Sisler",
+      "ageThatYear": 29,
+      "hits": 246,
+      "year": 1922,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f603c",
+      "rank": 10,
+      "player": "Ichiro Suzuki",
+      "ageThatYear": 27,
+      "hits": 242,
+      "year": 2001,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f603d",
+      "rank": 11,
+      "player": "Babe Herman",
+      "ageThatYear": 27,
+      "hits": 241,
+      "year": 1930,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f603e",
+      "rank": 12,
+      "player": "Heinie Manush",
+      "ageThatYear": 26,
+      "hits": 241,
+      "year": 1928,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f603f",
+      "rank": 13,
+      "player": "Wade Boggs",
+      "ageThatYear": 27,
+      "hits": 240,
+      "year": 1985,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6040",
+      "rank": 14,
+      "player": "Jesse Burkett",
+      "ageThatYear": 27,
+      "hits": 240,
+      "year": 1896,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6041",
+      "rank": 15,
+      "player": "Darin Erstad",
+      "ageThatYear": 26,
+      "hits": 240,
+      "year": 2000,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6042",
+      "rank": 16,
+      "player": "Rod Carew",
+      "ageThatYear": 31,
+      "hits": 239,
+      "year": 1977,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6043",
+      "rank": 17,
+      "player": "Willie Keeler",
+      "ageThatYear": 25,
+      "hits": 239,
+      "year": 1897,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6046",
+      "rank": 20,
+      "player": "Ichiro Suzuki",
+      "ageThatYear": 33,
+      "hits": 238,
+      "year": 2007,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6044",
+      "rank": 18,
+      "player": "Ed Delahanty",
+      "ageThatYear": 31,
+      "hits": 238,
+      "year": 1899,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6045",
+      "rank": 19,
+      "player": "Don Mattingly",
+      "ageThatYear": 25,
+      "hits": 238,
+      "year": 1986,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6047",
+      "rank": 21,
+      "player": "Hugh Duffy",
+      "ageThatYear": 27,
+      "hits": 237,
+      "year": 1894,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6048",
+      "rank": 22,
+      "player": "Harry Heilmann",
+      "ageThatYear": 26,
+      "hits": 237,
+      "year": 1921,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6049",
+      "rank": 23,
+      "player": "Joe Medwick",
+      "ageThatYear": 25,
+      "hits": 237,
+      "year": 1937,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f604a",
+      "rank": 24,
+      "player": "Paul Waner",
+      "ageThatYear": 24,
+      "hits": 237,
+      "year": 1927,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f604b",
+      "rank": 25,
+      "player": "Jack Tobin",
+      "ageThatYear": 29,
+      "hits": 236,
+      "year": 1921,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f604c",
+      "rank": 26,
+      "player": "Rogers Hornsby",
+      "ageThatYear": 25,
+      "hits": 235,
+      "year": 1921,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f604d",
+      "rank": 27,
+      "player": "Kirby Puckett",
+      "ageThatYear": 28,
+      "hits": 234,
+      "year": 1988,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f604e",
+      "rank": 28,
+      "player": "Lloyd Waner",
+      "ageThatYear": 23,
+      "hits": 234,
+      "year": 1929,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f604f",
+      "rank": 29,
+      "player": "Shoeless Joe Jackson",
+      "ageThatYear": 23,
+      "hits": 233,
+      "year": 1911,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6050",
+      "rank": 30,
+      "player": "Earl Averill",
+      "ageThatYear": 34,
+      "hits": 232,
+      "year": 1936,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6051",
+      "rank": 31,
+      "player": "Nap Lajoie",
+      "ageThatYear": 26,
+      "hits": 232,
+      "year": 1901,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6052",
+      "rank": 32,
+      "player": "Matty Alou",
+      "ageThatYear": 30,
+      "hits": 231,
+      "year": 1969,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbbb833cbda3d6f6053",
+      "rank": 33,
+      "player": "Earle Combs",
+      "ageThatYear": 28,
+      "hits": 231,
+      "year": 1927,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6055",
+      "rank": 35,
+      "player": "Freddie Lindstrom",
+      "ageThatYear": 24,
+      "hits": 231,
+      "year": 1930,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6054",
+      "rank": 34,
+      "player": "Freddie Lindstrom",
+      "ageThatYear": 22,
+      "hits": 231,
+      "year": 1928,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6058",
+      "rank": 38,
+      "player": "Pete Rose",
+      "ageThatYear": 32,
+      "hits": 230,
+      "year": 1973,
+      "bats": "B"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6059",
+      "rank": 39,
+      "player": "Joe Torre",
+      "ageThatYear": 30,
+      "hits": 230,
+      "year": 1971,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6057",
+      "rank": 37,
+      "player": "Stan Musial",
+      "ageThatYear": 27,
+      "hits": 230,
+      "year": 1948,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f605a",
+      "rank": 40,
+      "player": "Willie Wilson",
+      "ageThatYear": 24,
+      "hits": 230,
+      "year": 1980,
+      "bats": "B"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6056",
+      "rank": 36,
+      "player": "Tommy Davis",
+      "ageThatYear": 23,
+      "hits": 230,
+      "year": 1962,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f605b",
+      "rank": 41,
+      "player": "Rogers Hornsby",
+      "ageThatYear": 33,
+      "hits": 229,
+      "year": 1929,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f605c",
+      "rank": 42,
+      "player": "Kiki Cuyler",
+      "ageThatYear": 31,
+      "hits": 228,
+      "year": 1930,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f605d",
+      "rank": 43,
+      "player": "Stan Musial",
+      "ageThatYear": 25,
+      "hits": 228,
+      "year": 1946,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6063",
+      "rank": 49,
+      "player": "Nap Lajoie",
+      "ageThatYear": 35,
+      "hits": 227,
+      "year": 1910,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6064",
+      "rank": 50,
+      "player": "Sam Rice",
+      "ageThatYear": 35,
+      "hits": 227,
+      "year": 1925,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f605f",
+      "rank": 45,
+      "player": "Charlie Gehringer",
+      "ageThatYear": 33,
+      "hits": 227,
+      "year": 1936,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6062",
+      "rank": 48,
+      "player": "Lance Johnson",
+      "ageThatYear": 32,
+      "hits": 227,
+      "year": 1996,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6061",
+      "rank": 47,
+      "player": "Rogers Hornsby",
+      "ageThatYear": 28,
+      "hits": 227,
+      "year": 1924,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f605e",
+      "rank": 44,
+      "player": "Jim Bottomley",
+      "ageThatYear": 25,
+      "hits": 227,
+      "year": 1925,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6060",
+      "rank": 46,
+      "player": "Billy Herman",
+      "ageThatYear": 25,
+      "hits": 227,
+      "year": 1935,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6065",
+      "rank": 51,
+      "player": "Jesse Burkett",
+      "ageThatYear": 32,
+      "hits": 226,
+      "year": 1901,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6069",
+      "rank": 55,
+      "player": "Bill Terry",
+      "ageThatYear": 30,
+      "hits": 226,
+      "year": 1929,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6068",
+      "rank": 54,
+      "player": "Chuck Klein",
+      "ageThatYear": 27,
+      "hits": 226,
+      "year": 1932,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6066",
+      "rank": 52,
+      "player": "Ty Cobb",
+      "ageThatYear": 25,
+      "hits": 226,
+      "year": 1912,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6067",
+      "rank": 53,
+      "player": "Shoeless Joe Jackson",
+      "ageThatYear": 24,
+      "hits": 226,
+      "year": 1912,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6070",
+      "rank": 62,
+      "player": "Paul Molitor",
+      "ageThatYear": 39,
+      "hits": 225,
+      "year": 1996,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6072",
+      "rank": 64,
+      "player": "Ichiro Suzuki",
+      "ageThatYear": 35,
+      "hits": 225,
+      "year": 2009,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6073",
+      "rank": 65,
+      "player": "Bill Terry",
+      "ageThatYear": 33,
+      "hits": 225,
+      "year": 1932,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f606c",
+      "rank": 58,
+      "player": "Ty Cobb",
+      "ageThatYear": 30,
+      "hits": 225,
+      "year": 1917,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f606e",
+      "rank": 60,
+      "player": "Harry Heilmann",
+      "ageThatYear": 30,
+      "hits": 225,
+      "year": 1925,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6071",
+      "rank": 63,
+      "player": "Tip O'Neill",
+      "ageThatYear": 29,
+      "hits": 225,
+      "year": 1887,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f606d",
+      "rank": 59,
+      "player": "Billy Hamilton",
+      "ageThatYear": 28,
+      "hits": 225,
+      "year": 1894,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f606b",
+      "rank": 57,
+      "player": "Jesse Burkett",
+      "ageThatYear": 26,
+      "hits": 225,
+      "year": 1895,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f606a",
+      "rank": 56,
+      "player": "Jose Altuve",
+      "ageThatYear": 24,
+      "hits": 225,
+      "year": 2014,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f606f",
+      "rank": 61,
+      "player": "Johnny Hodapp",
+      "ageThatYear": 24,
+      "hits": 225,
+      "year": 1930,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6074",
+      "rank": 66,
+      "player": "Eddie Collins",
+      "ageThatYear": 33,
+      "hits": 224,
+      "year": 1920,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6077",
+      "rank": 69,
+      "player": "George Sisler",
+      "ageThatYear": 32,
+      "hits": 224,
+      "year": 1925,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6078",
+      "rank": 70,
+      "player": "Ichiro Suzuki",
+      "ageThatYear": 32,
+      "hits": 224,
+      "year": 2006,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6075",
+      "rank": 67,
+      "player": "Tommy Holmes",
+      "ageThatYear": 28,
+      "hits": 224,
+      "year": 1945,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6076",
+      "rank": 68,
+      "player": "Joe Medwick",
+      "ageThatYear": 23,
+      "hits": 224,
+      "year": 1935,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f607b",
+      "rank": 73,
+      "player": "Chuck Klein",
+      "ageThatYear": 28,
+      "hits": 223,
+      "year": 1933,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f607d",
+      "rank": 75,
+      "player": "Kirby Puckett",
+      "ageThatYear": 26,
+      "hits": 223,
+      "year": 1986,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f6079",
+      "rank": 71,
+      "player": "Hank Aaron",
+      "ageThatYear": 25,
+      "hits": 223,
+      "year": 1959,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f607a",
+      "rank": 72,
+      "player": "Frankie Frisch",
+      "ageThatYear": 25,
+      "hits": 223,
+      "year": 1923,
+      "bats": "B"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f607f",
+      "rank": 77,
+      "player": "Paul Waner",
+      "ageThatYear": 25,
+      "hits": 223,
+      "year": 1928,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbcb833cbda3d6f607c",
+      "rank": 74,
+      "player": "Joe Medwick",
+      "ageThatYear": 24,
+      "hits": 223,
+      "year": 1936,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f607e",
+      "rank": 76,
+      "player": "Lloyd Waner",
+      "ageThatYear": 21,
+      "hits": 223,
+      "year": 1927,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6082",
+      "rank": 80,
+      "player": "Sam Thompson",
+      "ageThatYear": 33,
+      "hits": 222,
+      "year": 1893,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6080",
+      "rank": 78,
+      "player": "Charlie Jamieson",
+      "ageThatYear": 30,
+      "hits": 222,
+      "year": 1923,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6081",
+      "rank": 79,
+      "player": "Tris Speaker",
+      "ageThatYear": 24,
+      "hits": 222,
+      "year": 1912,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6088",
+      "rank": 86,
+      "player": "Zack Wheat",
+      "ageThatYear": 37,
+      "hits": 221,
+      "year": 1925,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6085",
+      "rank": 83,
+      "player": "Heinie Manush",
+      "ageThatYear": 31,
+      "hits": 221,
+      "year": 1933,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6084",
+      "rank": 82,
+      "player": "Jesse Burkett",
+      "ageThatYear": 30,
+      "hits": 221,
+      "year": 1899,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6089",
+      "rank": 87,
+      "player": "Michael Young",
+      "ageThatYear": 28,
+      "hits": 221,
+      "year": 2005,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6086",
+      "rank": 84,
+      "player": "Juan Pierre",
+      "ageThatYear": 26,
+      "hits": 221,
+      "year": 2004,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6083",
+      "rank": 81,
+      "player": "Richie Ashburn",
+      "ageThatYear": 24,
+      "hits": 221,
+      "year": 1951,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6087",
+      "rank": 85,
+      "player": "Lloyd Waner",
+      "ageThatYear": 22,
+      "hits": 221,
+      "year": 1928,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f608d",
+      "rank": 91,
+      "player": "Tony Gwynn",
+      "ageThatYear": 37,
+      "hits": 220,
+      "year": 1997,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f608c",
+      "rank": 90,
+      "player": "Lou Gehrig",
+      "ageThatYear": 27,
+      "hits": 220,
+      "year": 1930,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f608a",
+      "rank": 88,
+      "player": "Pete Browning",
+      "ageThatYear": 26,
+      "hits": 220,
+      "year": 1887,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f608b",
+      "rank": 89,
+      "player": "Kiki Cuyler",
+      "ageThatYear": 26,
+      "hits": 220,
+      "year": 1925,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f608e",
+      "rank": 92,
+      "player": "Stan Musial",
+      "ageThatYear": 22,
+      "hits": 220,
+      "year": 1943,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f608f",
+      "rank": 93,
+      "player": "Jimmy Williams",
+      "ageThatYear": 22,
+      "hits": 220,
+      "year": 1899,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6097",
+      "rank": 101,
+      "player": "Lefty O'Doul",
+      "ageThatYear": 35,
+      "hits": 219,
+      "year": 1932,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6090",
+      "rank": 94,
+      "player": "Dante Bichette",
+      "ageThatYear": 34,
+      "hits": 219,
+      "year": 1998,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6099",
+      "rank": 103,
+      "player": "Paul Waner",
+      "ageThatYear": 34,
+      "hits": 219,
+      "year": 1937,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6098",
+      "rank": 102,
+      "player": "Cy Seymour",
+      "ageThatYear": 32,
+      "hits": 219,
+      "year": 1905,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6091",
+      "rank": 95,
+      "player": "Cecil Cooper",
+      "ageThatYear": 30,
+      "hits": 219,
+      "year": 1980,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6092",
+      "rank": 96,
+      "player": "Ed Delahanty",
+      "ageThatYear": 25,
+      "hits": 219,
+      "year": 1893,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6093",
+      "rank": 97,
+      "player": "Ralph Garr",
+      "ageThatYear": 25,
+      "hits": 219,
+      "year": 1971,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6094",
+      "rank": 98,
+      "player": "Derek Jeter",
+      "ageThatYear": 25,
+      "hits": 219,
+      "year": 1999,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6096",
+      "rank": 100,
+      "player": "Chuck Klein",
+      "ageThatYear": 24,
+      "hits": 219,
+      "year": 1929,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f6095",
+      "rank": 99,
+      "player": "Willie Keeler",
+      "ageThatYear": 22,
+      "hits": 219,
+      "year": 1894,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f60a3",
+      "rank": 113,
+      "player": "Tris Speaker",
+      "ageThatYear": 35,
+      "hits": 218,
+      "year": 1923,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f60a5",
+      "rank": 115,
+      "player": "Paul Waner",
+      "ageThatYear": 33,
+      "hits": 218,
+      "year": 1936,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f60a0",
+      "rank": 110,
+      "player": "Shoeless Joe Jackson",
+      "ageThatYear": 32,
+      "hits": 218,
+      "year": 1920,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f609a",
+      "rank": 104,
+      "player": "Felipe Alou",
+      "ageThatYear": 31,
+      "hits": 218,
+      "year": 1966,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f609b",
+      "rank": 105,
+      "player": "Beau Bell",
+      "ageThatYear": 29,
+      "hits": 218,
+      "year": 1937,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f609c",
+      "rank": 106,
+      "player": "Rod Carew",
+      "ageThatYear": 28,
+      "hits": 218,
+      "year": 1974,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f60a2",
+      "rank": 112,
+      "player": "Pete Rose",
+      "ageThatYear": 28,
+      "hits": 218,
+      "year": 1969,
+      "bats": "B"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f609e",
+      "rank": 108,
+      "player": "Tony Gwynn",
+      "ageThatYear": 27,
+      "hits": 218,
+      "year": 1987,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f60a1",
+      "rank": 111,
+      "player": "George Kell",
+      "ageThatYear": 27,
+      "hits": 218,
+      "year": 1950,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f60a4",
+      "rank": 114,
+      "player": "Cecil Travis",
+      "ageThatYear": 27,
+      "hits": 218,
+      "year": 1941,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f609d",
+      "rank": 107,
+      "player": "Lou Gehrig",
+      "ageThatYear": 24,
+      "hits": 218,
+      "year": 1927,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f609f",
+      "rank": 109,
+      "player": "Rogers Hornsby",
+      "ageThatYear": 24,
+      "hits": 218,
+      "year": 1920,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f60a6",
+      "rank": 116,
+      "player": "Sam Crawford",
+      "ageThatYear": 31,
+      "hits": 217,
+      "year": 1911,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60aa",
+      "rank": 120,
+      "player": "Paul Waner",
+      "ageThatYear": 31,
+      "hits": 217,
+      "year": 1934,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60ab",
+      "rank": 121,
+      "player": "Michael Young",
+      "ageThatYear": 29,
+      "hits": 217,
+      "year": 2006,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60a9",
+      "rank": 119,
+      "player": "Paul Waner",
+      "ageThatYear": 27,
+      "hits": 217,
+      "year": 1930,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbdb833cbda3d6f60a7",
+      "rank": 117,
+      "player": "Babe Herman",
+      "ageThatYear": 26,
+      "hits": 217,
+      "year": 1929,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60a8",
+      "rank": 118,
+      "player": "Tony Oliva",
+      "ageThatYear": 25,
+      "hits": 217,
+      "year": 1964,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60b3",
+      "rank": 129,
+      "player": "Derek Jeter",
+      "ageThatYear": 38,
+      "hits": 216,
+      "year": 2012,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60ba",
+      "rank": 136,
+      "player": "Sam Rice",
+      "ageThatYear": 36,
+      "hits": 216,
+      "year": 1926,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60b7",
+      "rank": 133,
+      "player": "Paul Molitor",
+      "ageThatYear": 34,
+      "hits": 216,
+      "year": 1991,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60b9",
+      "rank": 135,
+      "player": "Sam Rice",
+      "ageThatYear": 34,
+      "hits": 216,
+      "year": 1924,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60ad",
+      "rank": 123,
+      "player": "George Burns",
+      "ageThatYear": 33,
+      "hits": 216,
+      "year": 1926,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60b8",
+      "rank": 134,
+      "player": "Magglio Ordonez",
+      "ageThatYear": 33,
+      "hits": 216,
+      "year": 2007,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60bb",
+      "rank": 137,
+      "player": "Al Simmons",
+      "ageThatYear": 30,
+      "hits": 216,
+      "year": 1932,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60b2",
+      "rank": 128,
+      "player": "Baby Doll Jacobson",
+      "ageThatYear": 29,
+      "hits": 216,
+      "year": 1920,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60bc",
+      "rank": 138,
+      "player": "George Sisler",
+      "ageThatYear": 28,
+      "hits": 216,
+      "year": 1921,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60af",
+      "rank": 125,
+      "player": "Mike Donlin",
+      "ageThatYear": 27,
+      "hits": 216,
+      "year": 1905,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60b1",
+      "rank": 127,
+      "player": "Matt Holliday",
+      "ageThatYear": 27,
+      "hits": 216,
+      "year": 2007,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60b5",
+      "rank": 131,
+      "player": "Willie Keeler",
+      "ageThatYear": 27,
+      "hits": 216,
+      "year": 1899,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60bf",
+      "rank": 141,
+      "player": "Michael Young",
+      "ageThatYear": 27,
+      "hits": 216,
+      "year": 2004,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60ac",
+      "rank": 122,
+      "player": "Jose Altuve",
+      "ageThatYear": 26,
+      "hits": 216,
+      "year": 2016,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60b0",
+      "rank": 126,
+      "player": "Todd Helton",
+      "ageThatYear": 26,
+      "hits": 216,
+      "year": 2000,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60b4",
+      "rank": 130,
+      "player": "Willie Keeler",
+      "ageThatYear": 26,
+      "hits": 216,
+      "year": 1898,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60b6",
+      "rank": 132,
+      "player": "Willie McGee",
+      "ageThatYear": 26,
+      "hits": 216,
+      "year": 1985,
+      "bats": "B"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60be",
+      "rank": 140,
+      "player": "Joe Vosmik",
+      "ageThatYear": 25,
+      "hits": 216,
+      "year": 1935,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60bd",
+      "rank": 139,
+      "player": "Hal Trosky",
+      "ageThatYear": 23,
+      "hits": 216,
+      "year": 1936,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60ae",
+      "rank": 124,
+      "player": "Ty Cobb",
+      "ageThatYear": 22,
+      "hits": 216,
+      "year": 1909,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60ca",
+      "rank": 152,
+      "player": "Pete Rose",
+      "ageThatYear": 35,
+      "hits": 215,
+      "year": 1976,
+      "bats": "B"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60c1",
+      "rank": 143,
+      "player": "Richie Ashburn",
+      "ageThatYear": 31,
+      "hits": 215,
+      "year": 1958,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60c6",
+      "rank": 148,
+      "player": "Buddy Myer",
+      "ageThatYear": 31,
+      "hits": 215,
+      "year": 1935,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60c8",
+      "rank": 150,
+      "player": "Kirby Puckett",
+      "ageThatYear": 29,
+      "hits": 215,
+      "year": 1989,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60cb",
+      "rank": 153,
+      "player": "Paul Waner",
+      "ageThatYear": 29,
+      "hits": 215,
+      "year": 1932,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60c2",
+      "rank": 144,
+      "player": "Carson Bigbee",
+      "ageThatYear": 27,
+      "hits": 215,
+      "year": 1922,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60c0",
+      "rank": 142,
+      "player": "Dale Alexander",
+      "ageThatYear": 26,
+      "hits": 215,
+      "year": 1929,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60c5",
+      "rank": 147,
+      "player": "Charlie Gehringer",
+      "ageThatYear": 26,
+      "hits": 215,
+      "year": 1929,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60c7",
+      "rank": 149,
+      "player": "Dave Parker",
+      "ageThatYear": 26,
+      "hits": 215,
+      "year": 1977,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60cc",
+      "rank": 154,
+      "player": "Vernon Wells",
+      "ageThatYear": 24,
+      "hits": 215,
+      "year": 2003,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60c3",
+      "rank": 145,
+      "player": "George Brett",
+      "ageThatYear": 23,
+      "hits": 215,
+      "year": 1976,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60c4",
+      "rank": 146,
+      "player": "Joe DiMaggio",
+      "ageThatYear": 22,
+      "hits": 215,
+      "year": 1937,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60c9",
+      "rank": 151,
+      "player": "Alex Rodriguez",
+      "ageThatYear": 20,
+      "hits": 215,
+      "year": 1996,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60d8",
+      "rank": 166,
+      "player": "Ichiro Suzuki",
+      "ageThatYear": 36,
+      "hits": 214,
+      "year": 2010,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60d4",
+      "rank": 162,
+      "player": "Derek Jeter",
+      "ageThatYear": 32,
+      "hits": 214,
+      "year": 2006,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60d7",
+      "rank": 165,
+      "player": "Tris Speaker",
+      "ageThatYear": 32,
+      "hits": 214,
+      "year": 1920,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60d9",
+      "rank": 167,
+      "player": "Miguel Tejada",
+      "ageThatYear": 32,
+      "hits": 214,
+      "year": 2006,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60d3",
+      "rank": 161,
+      "player": "Charlie Gehringer",
+      "ageThatYear": 31,
+      "hits": 214,
+      "year": 1934,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60d5",
+      "rank": 163,
+      "player": "Nap Lajoie",
+      "ageThatYear": 31,
+      "hits": 214,
+      "year": 1906,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60ce",
+      "rank": 156,
+      "player": "Wade Boggs",
+      "ageThatYear": 30,
+      "hits": 214,
+      "year": 1988,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60d6",
+      "rank": 164,
+      "player": "Heinie Manush",
+      "ageThatYear": 30,
+      "hits": 214,
+      "year": 1932,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60cf",
+      "rank": 157,
+      "player": "Doc Cramer",
+      "ageThatYear": 29,
+      "hits": 214,
+      "year": 1935,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60d2",
+      "rank": 160,
+      "player": "Ralph Garr",
+      "ageThatYear": 28,
+      "hits": 214,
+      "year": 1974,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60d0",
+      "rank": 158,
+      "player": "Johnny Damon",
+      "ageThatYear": 26,
+      "hits": 214,
+      "year": 2000,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60da",
+      "rank": 168,
+      "player": "Lloyd Waner",
+      "ageThatYear": 25,
+      "hits": 214,
+      "year": 1931,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60d1",
+      "rank": 159,
+      "player": "Woody English",
+      "ageThatYear": 24,
+      "hits": 214,
+      "year": 1930,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60cd",
+      "rank": 155,
+      "player": "Mookie Betts",
+      "ageThatYear": 23,
+      "hits": 214,
+      "year": 2016,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60ea",
+      "rank": 184,
+      "player": "Bill Terry",
+      "ageThatYear": 35,
+      "hits": 213,
+      "year": 1934,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60e8",
+      "rank": 182,
+      "player": "Ichiro Suzuki",
+      "ageThatYear": 34,
+      "hits": 213,
+      "year": 2008,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60ec",
+      "rank": 186,
+      "player": "Michael Young",
+      "ageThatYear": 34,
+      "hits": 213,
+      "year": 2011,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60e9",
+      "rank": 183,
+      "player": "Bill Terry",
+      "ageThatYear": 32,
+      "hits": 213,
+      "year": 1931,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60e2",
+      "rank": 176,
+      "player": "Charlie Jamieson",
+      "ageThatYear": 31,
+      "hits": 213,
+      "year": 1924,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60db",
+      "rank": 169,
+      "player": "Charlie Blackmon",
+      "ageThatYear": 30,
+      "hits": 213,
+      "year": 2017,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60e7",
+      "rank": 181,
+      "player": "Red Rolfe",
+      "ageThatYear": 30,
+      "hits": 213,
+      "year": 1939,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60dc",
+      "rank": 170,
+      "player": "Jesse Burkett",
+      "ageThatYear": 29,
+      "hits": 213,
+      "year": 1898,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60e0",
+      "rank": 174,
+      "player": "Adrian Gonzalez",
+      "ageThatYear": 29,
+      "hits": 213,
+      "year": 2011,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60eb",
+      "rank": 185,
+      "player": "Gee Walker",
+      "ageThatYear": 29,
+      "hits": 213,
+      "year": 1937,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60dd",
+      "rank": 171,
+      "player": "Dave Cash",
+      "ageThatYear": 27,
+      "hits": 213,
+      "year": 1975,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60e5",
+      "rank": 179,
+      "player": "Jim Rice",
+      "ageThatYear": 25,
+      "hits": 213,
+      "year": 1978,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60de",
+      "rank": 172,
+      "player": "Tony Fernandez",
+      "ageThatYear": 24,
+      "hits": 213,
+      "year": 1986,
+      "bats": "B"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60df",
+      "rank": 173,
+      "player": "Jimmie Foxx",
+      "ageThatYear": 24,
+      "hits": 213,
+      "year": 1932,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60e1",
+      "rank": 175,
+      "player": "Tony Gwynn",
+      "ageThatYear": 24,
+      "hits": 213,
+      "year": 1984,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60e4",
+      "rank": 178,
+      "player": "Dustin Pedroia",
+      "ageThatYear": 24,
+      "hits": 213,
+      "year": 2008,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60e3",
+      "rank": 177,
+      "player": "Willie Keeler",
+      "ageThatYear": 23,
+      "hits": 213,
+      "year": 1895,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbeb833cbda3d6f60e6",
+      "rank": 180,
+      "player": "Alex Rodriguez",
+      "ageThatYear": 22,
+      "hits": 213,
+      "year": 1998,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60fb",
+      "rank": 201,
+      "player": "Zack Wheat",
+      "ageThatYear": 36,
+      "hits": 212,
+      "year": 1924,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60f2",
+      "rank": 192,
+      "player": "Derek Jeter",
+      "ageThatYear": 35,
+      "hits": 212,
+      "year": 2009,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60f3",
+      "rank": 193,
+      "player": "Ron LeFlore",
+      "ageThatYear": 29,
+      "hits": 212,
+      "year": 1977,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60fa",
+      "rank": 200,
+      "player": "Ichiro Suzuki",
+      "ageThatYear": 29,
+      "hits": 212,
+      "year": 2003,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60ed",
+      "rank": 187,
+      "player": "Beau Bell",
+      "ageThatYear": 28,
+      "hits": 212,
+      "year": 1936,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60f4",
+      "rank": 194,
+      "player": "Bobby Lowe",
+      "ageThatYear": 28,
+      "hits": 212,
+      "year": 1894,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60f8",
+      "rank": 198,
+      "player": "Jimmy Rollins",
+      "ageThatYear": 28,
+      "hits": 212,
+      "year": 2007,
+      "bats": "B"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60f1",
+      "rank": 191,
+      "player": "Jacoby Ellsbury",
+      "ageThatYear": 27,
+      "hits": 212,
+      "year": 2011,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60f5",
+      "rank": 195,
+      "player": "Don Mueller",
+      "ageThatYear": 27,
+      "hits": 212,
+      "year": 1954,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60f9",
+      "rank": 199,
+      "player": "Al Simmons",
+      "ageThatYear": 27,
+      "hits": 212,
+      "year": 1929,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60ee",
+      "rank": 188,
+      "player": "George Brett",
+      "ageThatYear": 26,
+      "hits": 212,
+      "year": 1979,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60f0",
+      "rank": 190,
+      "player": "Frank Demaree",
+      "ageThatYear": 26,
+      "hits": 212,
+      "year": 1936,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60f6",
+      "rank": 196,
+      "player": "Albert Pujols",
+      "ageThatYear": 23,
+      "hits": 212,
+      "year": 2003,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60f7",
+      "rank": 197,
+      "player": "Hanley Ramirez",
+      "ageThatYear": 23,
+      "hits": 212,
+      "year": 2007,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60ef",
+      "rank": 189,
+      "player": "Ty Cobb",
+      "ageThatYear": 20,
+      "hits": 212,
+      "year": 1907,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60ff",
+      "rank": 205,
+      "player": "Ty Cobb",
+      "ageThatYear": 37,
+      "hits": 211,
+      "year": 1924,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f6109",
+      "rank": 215,
+      "player": "Paul Molitor",
+      "ageThatYear": 36,
+      "hits": 211,
+      "year": 1993,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60fe",
+      "rank": 204,
+      "player": "Ty Cobb",
+      "ageThatYear": 35,
+      "hits": 211,
+      "year": 1922,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f610f",
+      "rank": 221,
+      "player": "Sam Thompson",
+      "ageThatYear": 35,
+      "hits": 211,
+      "year": 1895,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60fc",
+      "rank": 202,
+      "player": "Ellis Burks",
+      "ageThatYear": 31,
+      "hits": 211,
+      "year": 1996,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f6106",
+      "rank": 212,
+      "player": "Baby Doll Jacobson",
+      "ageThatYear": 30,
+      "hits": 211,
+      "year": 1921,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f610a",
+      "rank": 216,
+      "player": "Sam Rice",
+      "ageThatYear": 30,
+      "hits": 211,
+      "year": 1920,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f60fd",
+      "rank": 203,
+      "player": "Roberto Clemente",
+      "ageThatYear": 29,
+      "hits": 211,
+      "year": 1964,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f6102",
+      "rank": 208,
+      "player": "Lou Gehrig",
+      "ageThatYear": 28,
+      "hits": 211,
+      "year": 1931,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f6104",
+      "rank": 210,
+      "player": "Harry Heilmann",
+      "ageThatYear": 28,
+      "hits": 211,
+      "year": 1923,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f610c",
+      "rank": 218,
+      "player": "Al Simmons",
+      "ageThatYear": 28,
+      "hits": 211,
+      "year": 1930,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f610d",
+      "rank": 219,
+      "player": "Tris Speaker",
+      "ageThatYear": 28,
+      "hits": 211,
+      "year": 1916,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f6100",
+      "rank": 206,
+      "player": "Curt Flood",
+      "ageThatYear": 26,
+      "hits": 211,
+      "year": 1964,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f6103",
+      "rank": 209,
+      "player": "Tony Gwynn",
+      "ageThatYear": 26,
+      "hits": 211,
+      "year": 1986,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f6105",
+      "rank": 211,
+      "player": "Billy Herman",
+      "ageThatYear": 26,
+      "hits": 211,
+      "year": 1936,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f6107",
+      "rank": 213,
+      "player": "Benny Kauff",
+      "ageThatYear": 24,
+      "hits": 211,
+      "year": 1914,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f6108",
+      "rank": 214,
+      "player": "Don Mattingly",
+      "ageThatYear": 24,
+      "hits": 211,
+      "year": 1985,
+      "bats": "L"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f6101",
+      "rank": 207,
+      "player": "Frankie Frisch",
+      "ageThatYear": 23,
+      "hits": 211,
+      "year": 1921,
+      "bats": "B"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f610e",
+      "rank": 220,
+      "player": "Garry Templeton",
+      "ageThatYear": 23,
+      "hits": 211,
+      "year": 1979,
+      "bats": "B"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f610b",
+      "rank": 217,
+      "player": "Cal Ripken",
+      "ageThatYear": 22,
+      "hits": 211,
+      "year": 1983,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6120",
+      "rank": 238,
+      "player": "Pete Rose",
+      "ageThatYear": 34,
+      "hits": 210,
+      "year": 1975,
+      "bats": "B"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f6110",
+      "rank": 222,
+      "player": "Felipe Alou",
+      "ageThatYear": 33,
+      "hits": 210,
+      "year": 1968,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f6111",
+      "rank": 223,
+      "player": "Craig Biggio",
+      "ageThatYear": 32,
+      "hits": 210,
+      "year": 1998,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f611c",
+      "rank": 234,
+      "player": "Kirby Puckett",
+      "ageThatYear": 32,
+      "hits": 210,
+      "year": 1992,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6117",
+      "rank": 229,
+      "player": "Lou Gehrig",
+      "ageThatYear": 31,
+      "hits": 210,
+      "year": 1934,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f611e",
+      "rank": 236,
+      "player": "Mickey Rivers",
+      "ageThatYear": 31,
+      "hits": 210,
+      "year": 1980,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f611d",
+      "rank": 235,
+      "player": "Cal Ripken",
+      "ageThatYear": 30,
+      "hits": 210,
+      "year": 1991,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f611b",
+      "rank": 233,
+      "player": "Kenny Lofton",
+      "ageThatYear": 29,
+      "hits": 210,
+      "year": 1996,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6114",
+      "rank": 226,
+      "player": "Lave Cross",
+      "ageThatYear": 28,
+      "hits": 210,
+      "year": 1894,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f611f",
+      "rank": 237,
+      "player": "Pete Rose",
+      "ageThatYear": 27,
+      "hits": 210,
+      "year": 1968,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6115",
+      "rank": 227,
+      "player": "Steve Garvey",
+      "ageThatYear": 26,
+      "hits": 210,
+      "year": 1975,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6121",
+      "rank": 239,
+      "player": "Steve Sax",
+      "ageThatYear": 26,
+      "hits": 210,
+      "year": 1986,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6122",
+      "rank": 240,
+      "player": "Robin Yount",
+      "ageThatYear": 26,
+      "hits": 210,
+      "year": 1982,
+      "bats": "R"
+    },
+    {
+      "id": "67933dbfb833cbda3d6f6112",
+      "rank": 224,
+      "player": "Wade Boggs",
+      "ageThatYear": 25,
+      "hits": 210,
+      "year": 1983,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6113",
+      "rank": 225,
+      "player": "Steve Brodie",
+      "ageThatYear": 25,
+      "hits": 210,
+      "year": 1894,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6116",
+      "rank": 228,
+      "player": "Lou Gehrig",
+      "ageThatYear": 25,
+      "hits": 210,
+      "year": 1928,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6118",
+      "rank": 230,
+      "player": "Keith Hernandez",
+      "ageThatYear": 25,
+      "hits": 210,
+      "year": 1979,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6119",
+      "rank": 231,
+      "player": "Willie Keeler",
+      "ageThatYear": 24,
+      "hits": 210,
+      "year": 1896,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f611a",
+      "rank": 232,
+      "player": "Buddy Lewis",
+      "ageThatYear": 20,
+      "hits": 210,
+      "year": 1937,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6129",
+      "rank": 247,
+      "player": "Charlie Gehringer",
+      "ageThatYear": 34,
+      "hits": 209,
+      "year": 1937,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6130",
+      "rank": 254,
+      "player": "Al Oliver",
+      "ageThatYear": 33,
+      "hits": 209,
+      "year": 1980,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6126",
+      "rank": 244,
+      "player": "Roberto Clemente",
+      "ageThatYear": 32,
+      "hits": 209,
+      "year": 1967,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6124",
+      "rank": 242,
+      "player": "Dave Bancroft",
+      "ageThatYear": 31,
+      "hits": 209,
+      "year": 1922,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6127",
+      "rank": 245,
+      "player": "Lew Fonseca",
+      "ageThatYear": 30,
+      "hits": 209,
+      "year": 1929,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6123",
+      "rank": 241,
+      "player": "Earl Averill",
+      "ageThatYear": 29,
+      "hits": 209,
+      "year": 1931,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f612a",
+      "rank": 248,
+      "player": "Todd Helton",
+      "ageThatYear": 29,
+      "hits": 209,
+      "year": 2003,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f612f",
+      "rank": 253,
+      "player": "Frank McCormick",
+      "ageThatYear": 28,
+      "hits": 209,
+      "year": 1939,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f612b",
+      "rank": 249,
+      "player": "Hughie Jennings",
+      "ageThatYear": 27,
+      "hits": 209,
+      "year": 1896,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f612e",
+      "rank": 252,
+      "player": "Frank McCormick",
+      "ageThatYear": 27,
+      "hits": 209,
+      "year": 1938,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6135",
+      "rank": 259,
+      "player": "Fred Tenney",
+      "ageThatYear": 27,
+      "hits": 209,
+      "year": 1899,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6125",
+      "rank": 243,
+      "player": "Ginger Beaumont",
+      "ageThatYear": 26,
+      "hits": 209,
+      "year": 1903,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6131",
+      "rank": 255,
+      "player": "Bobby Richardson",
+      "ageThatYear": 26,
+      "hits": 209,
+      "year": 1962,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6133",
+      "rank": 257,
+      "player": "Alfonso Soriano",
+      "ageThatYear": 26,
+      "hits": 209,
+      "year": 2002,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6134",
+      "rank": 258,
+      "player": "Jigger Statz",
+      "ageThatYear": 25,
+      "hits": 209,
+      "year": 1923,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6132",
+      "rank": 256,
+      "player": "Pete Rose",
+      "ageThatYear": 24,
+      "hits": 209,
+      "year": 1965,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6128",
+      "rank": 246,
+      "player": "Nomar Garciaparra",
+      "ageThatYear": 23,
+      "hits": 209,
+      "year": 1997,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f612c",
+      "rank": 250,
+      "player": "Harvey Kuenn",
+      "ageThatYear": 22,
+      "hits": 209,
+      "year": 1953,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f612d",
+      "rank": 251,
+      "player": "Denny Lyons",
+      "ageThatYear": 21,
+      "hits": 209,
+      "year": 1887,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6141",
+      "rank": 271,
+      "player": "Pete Rose",
+      "ageThatYear": 38,
+      "hits": 208,
+      "year": 1979,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f613b",
+      "rank": 265,
+      "player": "Mark Loretta",
+      "ageThatYear": 32,
+      "hits": 208,
+      "year": 2004,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6145",
+      "rank": 275,
+      "player": "Larry Walker",
+      "ageThatYear": 30,
+      "hits": 208,
+      "year": 1997,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6148",
+      "rank": 278,
+      "player": "Hack Wilson",
+      "ageThatYear": 30,
+      "hits": 208,
+      "year": 1930,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6138",
+      "rank": 262,
+      "player": "Frankie Frisch",
+      "ageThatYear": 29,
+      "hits": 208,
+      "year": 1927,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6139",
+      "rank": 263,
+      "player": "Lou Gehrig",
+      "ageThatYear": 29,
+      "hits": 208,
+      "year": 1932,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f613a",
+      "rank": 264,
+      "player": "Nap Lajoie",
+      "ageThatYear": 29,
+      "hits": 208,
+      "year": 1904,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6142",
+      "rank": 272,
+      "player": "George Stone",
+      "ageThatYear": 29,
+      "hits": 208,
+      "year": 1906,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6146",
+      "rank": 276,
+      "player": "Buck Weaver",
+      "ageThatYear": 29,
+      "hits": 208,
+      "year": 1920,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6147",
+      "rank": 277,
+      "player": "Maury Wills",
+      "ageThatYear": 29,
+      "hits": 208,
+      "year": 1962,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6136",
+      "rank": 260,
+      "player": "Ty Cobb",
+      "ageThatYear": 28,
+      "hits": 208,
+      "year": 1915,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6137",
+      "rank": 261,
+      "player": "Pete Fox",
+      "ageThatYear": 28,
+      "hits": 208,
+      "year": 1937,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6143",
+      "rank": 273,
+      "player": "Ichiro Suzuki",
+      "ageThatYear": 28,
+      "hits": 208,
+      "year": 2002,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f613c",
+      "rank": 266,
+      "player": "Willie Mays",
+      "ageThatYear": 27,
+      "hits": 208,
+      "year": 1958,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f613e",
+      "rank": 268,
+      "player": "Johnny Pesky",
+      "ageThatYear": 27,
+      "hits": 208,
+      "year": 1946,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f613d",
+      "rank": 267,
+      "player": "Wally Moses",
+      "ageThatYear": 26,
+      "hits": 208,
+      "year": 1937,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6140",
+      "rank": 270,
+      "player": "Frank Robinson",
+      "ageThatYear": 26,
+      "hits": 208,
+      "year": 1962,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f6144",
+      "rank": 274,
+      "player": "Pie Traynor",
+      "ageThatYear": 24,
+      "hits": 208,
+      "year": 1923,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc0b833cbda3d6f613f",
+      "rank": 269,
+      "player": "Vada Pinson",
+      "ageThatYear": 22,
+      "hits": 208,
+      "year": 1961,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6153",
+      "rank": 289,
+      "player": "Sam Rice",
+      "ageThatYear": 40,
+      "hits": 207,
+      "year": 1930,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6155",
+      "rank": 291,
+      "player": "B.J. Surhoff",
+      "ageThatYear": 34,
+      "hits": 207,
+      "year": 1999,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6158",
+      "rank": 294,
+      "player": "Bobby Veach",
+      "ageThatYear": 33,
+      "hits": 207,
+      "year": 1921,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f614a",
+      "rank": 280,
+      "player": "Max Carey",
+      "ageThatYear": 32,
+      "hits": 207,
+      "year": 1922,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6152",
+      "rank": 288,
+      "player": "Rip Radcliff",
+      "ageThatYear": 30,
+      "hits": 207,
+      "year": 1936,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6156",
+      "rank": 292,
+      "player": "Jack Tobin",
+      "ageThatYear": 30,
+      "hits": 207,
+      "year": 1922,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f614c",
+      "rank": 282,
+      "player": "Bob Dillinger",
+      "ageThatYear": 29,
+      "hits": 207,
+      "year": 1948,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f614d",
+      "rank": 283,
+      "player": "Marquis Grissom",
+      "ageThatYear": 29,
+      "hits": 207,
+      "year": 1996,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6149",
+      "rank": 279,
+      "player": "Wade Boggs",
+      "ageThatYear": 28,
+      "hits": 207,
+      "year": 1986,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f614f",
+      "rank": 285,
+      "player": "Stan Musial",
+      "ageThatYear": 28,
+      "hits": 207,
+      "year": 1949,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6150",
+      "rank": 286,
+      "player": "Johnny Pesky",
+      "ageThatYear": 28,
+      "hits": 207,
+      "year": 1947,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6157",
+      "rank": 293,
+      "player": "Mo Vaughn",
+      "ageThatYear": 28,
+      "hits": 207,
+      "year": 1996,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6159",
+      "rank": 295,
+      "player": "Mickey Vernon",
+      "ageThatYear": 28,
+      "hits": 207,
+      "year": 1946,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6151",
+      "rank": 287,
+      "player": "Kirby Puckett",
+      "ageThatYear": 27,
+      "hits": 207,
+      "year": 1987,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6154",
+      "rank": 290,
+      "player": "Kevin Seitzer",
+      "ageThatYear": 25,
+      "hits": 207,
+      "year": 1987,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f615a",
+      "rank": 296,
+      "player": "Pinky Whitney",
+      "ageThatYear": 25,
+      "hits": 207,
+      "year": 1930,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f615b",
+      "rank": 297,
+      "player": "Heinie Zimmerman",
+      "ageThatYear": 25,
+      "hits": 207,
+      "year": 1912,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f614e",
+      "rank": 284,
+      "player": "Don Mattingly",
+      "ageThatYear": 23,
+      "hits": 207,
+      "year": 1984,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f614b",
+      "rank": 281,
+      "player": "Starlin Castro",
+      "ageThatYear": 21,
+      "hits": 207,
+      "year": 2011,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f616a",
+      "rank": 312,
+      "player": "Derek Jeter",
+      "ageThatYear": 33,
+      "hits": 206,
+      "year": 2007,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f615d",
+      "rank": 299,
+      "player": "Bret Boone",
+      "ageThatYear": 32,
+      "hits": 206,
+      "year": 2001,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6166",
+      "rank": 308,
+      "player": "Luis Gonzalez",
+      "ageThatYear": 31,
+      "hits": 206,
+      "year": 1999,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f616e",
+      "rank": 316,
+      "player": "Ichiro Suzuki",
+      "ageThatYear": 31,
+      "hits": 206,
+      "year": 2005,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6160",
+      "rank": 302,
+      "player": "Vinny Castilla",
+      "ageThatYear": 30,
+      "hits": 206,
+      "year": 1998,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f616d",
+      "rank": 315,
+      "player": "Lance Richbourg",
+      "ageThatYear": 30,
+      "hits": 206,
+      "year": 1928,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f615c",
+      "rank": 298,
+      "player": "Rich Aurilia",
+      "ageThatYear": 29,
+      "hits": 206,
+      "year": 2001,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6168",
+      "rank": 310,
+      "player": "Vladimir Guerrero",
+      "ageThatYear": 29,
+      "hits": 206,
+      "year": 2004,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f615e",
+      "rank": 300,
+      "player": "Lou Brock",
+      "ageThatYear": 28,
+      "hits": 206,
+      "year": 1967,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6163",
+      "rank": 305,
+      "player": "Taylor Douthit",
+      "ageThatYear": 28,
+      "hits": 206,
+      "year": 1929,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6165",
+      "rank": 307,
+      "player": "Johnny Frederick",
+      "ageThatYear": 28,
+      "hits": 206,
+      "year": 1930,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f616b",
+      "rank": 313,
+      "player": "Willie Montanez",
+      "ageThatYear": 28,
+      "hits": 206,
+      "year": 1976,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6164",
+      "rank": 306,
+      "player": "Johnny Frederick",
+      "ageThatYear": 27,
+      "hits": 206,
+      "year": 1929,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6167",
+      "rank": 309,
+      "player": "Vladimir Guerrero",
+      "ageThatYear": 27,
+      "hits": 206,
+      "year": 2002,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f615f",
+      "rank": 301,
+      "player": "Dave Cash",
+      "ageThatYear": 26,
+      "hits": 206,
+      "year": 1974,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6161",
+      "rank": 303,
+      "player": "Fred Clarke",
+      "ageThatYear": 26,
+      "hits": 206,
+      "year": 1899,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f616f",
+      "rank": 317,
+      "player": "Mike Sweeney",
+      "ageThatYear": 26,
+      "hits": 206,
+      "year": 2000,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6171",
+      "rank": 319,
+      "player": "Lou Whitaker",
+      "ageThatYear": 26,
+      "hits": 206,
+      "year": 1983,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f616c",
+      "rank": 314,
+      "player": "Jim Rice",
+      "ageThatYear": 24,
+      "hits": 206,
+      "year": 1977,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6169",
+      "rank": 311,
+      "player": "Billy Herman",
+      "ageThatYear": 22,
+      "hits": 206,
+      "year": 1932,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6162",
+      "rank": 304,
+      "player": "Joe DiMaggio",
+      "ageThatYear": 21,
+      "hits": 206,
+      "year": 1936,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6170",
+      "rank": 318,
+      "player": "Hal Trosky",
+      "ageThatYear": 21,
+      "hits": 206,
+      "year": 1934,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6179",
+      "rank": 327,
+      "player": "Jake Daubert",
+      "ageThatYear": 38,
+      "hits": 205,
+      "year": 1922,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6186",
+      "rank": 340,
+      "player": "George Sisler",
+      "ageThatYear": 36,
+      "hits": 205,
+      "year": 1929,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f618a",
+      "rank": 344,
+      "player": "Mickey Vernon",
+      "ageThatYear": 35,
+      "hits": 205,
+      "year": 1953,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6175",
+      "rank": 323,
+      "player": "Al Bumbry",
+      "ageThatYear": 33,
+      "hits": 205,
+      "year": 1980,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f617a",
+      "rank": 328,
+      "player": "Lou Gehrig",
+      "ageThatYear": 33,
+      "hits": 205,
+      "year": 1936,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6178",
+      "rank": 326,
+      "player": "Cecil Cooper",
+      "ageThatYear": 32,
+      "hits": 205,
+      "year": 1982,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f618b",
+      "rank": 345,
+      "player": "Billy Williams",
+      "ageThatYear": 32,
+      "hits": 205,
+      "year": 1970,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6174",
+      "rank": 322,
+      "player": "Wade Boggs",
+      "ageThatYear": 31,
+      "hits": 205,
+      "year": 1989,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f617b",
+      "rank": 329,
+      "player": "Jack Glasscock",
+      "ageThatYear": 31,
+      "hits": 205,
+      "year": 1889,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f617d",
+      "rank": 331,
+      "player": "Rogers Hornsby",
+      "ageThatYear": 31,
+      "hits": 205,
+      "year": 1927,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f617f",
+      "rank": 333,
+      "player": "Stan Musial",
+      "ageThatYear": 30,
+      "hits": 205,
+      "year": 1951,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6189",
+      "rank": 343,
+      "player": "Mo Vaughn",
+      "ageThatYear": 30,
+      "hits": 205,
+      "year": 1998,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6176",
+      "rank": 324,
+      "player": "Miguel Cabrera",
+      "ageThatYear": 29,
+      "hits": 205,
+      "year": 2012,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6183",
+      "rank": 337,
+      "player": "Pete Rose",
+      "ageThatYear": 29,
+      "hits": 205,
+      "year": 1970,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6185",
+      "rank": 339,
+      "player": "Steve Sax",
+      "ageThatYear": 29,
+      "hits": 205,
+      "year": 1989,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6188",
+      "rank": 342,
+      "player": "Alan Trammell",
+      "ageThatYear": 29,
+      "hits": 205,
+      "year": 1987,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6184",
+      "rank": 338,
+      "player": "Babe Ruth",
+      "ageThatYear": 28,
+      "hits": 205,
+      "year": 1923,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f617c",
+      "rank": 330,
+      "player": "Dee Gordon",
+      "ageThatYear": 27,
+      "hits": 205,
+      "year": 2015,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f617e",
+      "rank": 332,
+      "player": "Jo-Jo Moore",
+      "ageThatYear": 27,
+      "hits": 205,
+      "year": 1936,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6172",
+      "rank": 320,
+      "player": "Richie Ashburn",
+      "ageThatYear": 26,
+      "hits": 205,
+      "year": 1953,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6182",
+      "rank": 336,
+      "player": "Pete Rose",
+      "ageThatYear": 25,
+      "hits": 205,
+      "year": 1966,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6187",
+      "rank": 341,
+      "player": "Snuffy Stirnweiss",
+      "ageThatYear": 25,
+      "hits": 205,
+      "year": 1944,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6177",
+      "rank": 325,
+      "player": "Fred Clarke",
+      "ageThatYear": 24,
+      "hits": 205,
+      "year": 1897,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc1b833cbda3d6f6173",
+      "rank": 321,
+      "player": "Carlos Baerga",
+      "ageThatYear": 23,
+      "hits": 205,
+      "year": 1992,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6180",
+      "rank": 334,
+      "player": "Johnny Pesky",
+      "ageThatYear": 23,
+      "hits": 205,
+      "year": 1942,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6181",
+      "rank": 335,
+      "player": "Vada Pinson",
+      "ageThatYear": 20,
+      "hits": 205,
+      "year": 1959,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61a2",
+      "rank": 368,
+      "player": "Pete Rose",
+      "ageThatYear": 36,
+      "hits": 204,
+      "year": 1977,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f619c",
+      "rank": 362,
+      "player": "Al Oliver",
+      "ageThatYear": 35,
+      "hits": 204,
+      "year": 1982,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61aa",
+      "rank": 376,
+      "player": "Bernie Williams",
+      "ageThatYear": 33,
+      "hits": 204,
+      "year": 2002,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61a9",
+      "rank": 375,
+      "player": "George Van Haltren",
+      "ageThatYear": 32,
+      "hits": 204,
+      "year": 1898,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f619b",
+      "rank": 361,
+      "player": "Tony Oliva",
+      "ageThatYear": 31,
+      "hits": 204,
+      "year": 1970,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6191",
+      "rank": 351,
+      "player": "Steve Garvey",
+      "ageThatYear": 30,
+      "hits": 204,
+      "year": 1979,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6192",
+      "rank": 352,
+      "player": "Charlie Gehringer",
+      "ageThatYear": 30,
+      "hits": 204,
+      "year": 1933,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61a8",
+      "rank": 374,
+      "player": "Cesar Tovar",
+      "ageThatYear": 30,
+      "hits": 204,
+      "year": 1971,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f618d",
+      "rank": 347,
+      "player": "Luke Appling",
+      "ageThatYear": 29,
+      "hits": 204,
+      "year": 1936,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6197",
+      "rank": 357,
+      "player": "Irish Meusel",
+      "ageThatYear": 29,
+      "hits": 204,
+      "year": 1922,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6193",
+      "rank": 353,
+      "player": "Doug Glanville",
+      "ageThatYear": 28,
+      "hits": 204,
+      "year": 1999,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6195",
+      "rank": 355,
+      "player": "Willie Keeler",
+      "ageThatYear": 28,
+      "hits": 204,
+      "year": 1900,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f619e",
+      "rank": 364,
+      "player": "Juan Pierre",
+      "ageThatYear": 28,
+      "hits": 204,
+      "year": 2006,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61a7",
+      "rank": 373,
+      "player": "Miguel Tejada",
+      "ageThatYear": 28,
+      "hits": 204,
+      "year": 2002,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f618c",
+      "rank": 346,
+      "player": "Jose Altuve",
+      "ageThatYear": 27,
+      "hits": 204,
+      "year": 2017,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6196",
+      "rank": 356,
+      "player": "Heinie Manush",
+      "ageThatYear": 27,
+      "hits": 204,
+      "year": 1929,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f618e",
+      "rank": 348,
+      "player": "Carson Bigbee",
+      "ageThatYear": 26,
+      "hits": 204,
+      "year": 1921,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f618f",
+      "rank": 349,
+      "player": "Robinson Cano",
+      "ageThatYear": 26,
+      "hits": 204,
+      "year": 2009,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6194",
+      "rank": 354,
+      "player": "Hughie Jennings",
+      "ageThatYear": 26,
+      "hits": 204,
+      "year": 1895,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6198",
+      "rank": 358,
+      "player": "Dale Mitchell",
+      "ageThatYear": 26,
+      "hits": 204,
+      "year": 1948,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f619a",
+      "rank": 360,
+      "player": "Ed Morgan",
+      "ageThatYear": 26,
+      "hits": 204,
+      "year": 1930,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61a0",
+      "rank": 366,
+      "player": "Vada Pinson",
+      "ageThatYear": 26,
+      "hits": 204,
+      "year": 1965,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61a3",
+      "rank": 369,
+      "player": "Babe Ruth",
+      "ageThatYear": 26,
+      "hits": 204,
+      "year": 1921,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61a4",
+      "rank": 370,
+      "player": "Joe Sewell",
+      "ageThatYear": 26,
+      "hits": 204,
+      "year": 1925,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61a5",
+      "rank": 371,
+      "player": "Milt Stock",
+      "ageThatYear": 26,
+      "hits": 204,
+      "year": 1920,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61a6",
+      "rank": 372,
+      "player": "Bill Sweeney",
+      "ageThatYear": 26,
+      "hits": 204,
+      "year": 1912,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61ab",
+      "rank": 377,
+      "player": "Michael Young",
+      "ageThatYear": 26,
+      "hits": 204,
+      "year": 2003,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6190",
+      "rank": 350,
+      "player": "Jimmie Foxx",
+      "ageThatYear": 25,
+      "hits": 204,
+      "year": 1933,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f619d",
+      "rank": 363,
+      "player": "Juan Pierre",
+      "ageThatYear": 25,
+      "hits": 204,
+      "year": 2003,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61a1",
+      "rank": 367,
+      "player": "Jose Reyes",
+      "ageThatYear": 25,
+      "hits": 204,
+      "year": 2008,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc2b833cbda3d6f6199",
+      "rank": 359,
+      "player": "Johnny Mize",
+      "ageThatYear": 24,
+      "hits": 204,
+      "year": 1937,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f619f",
+      "rank": 365,
+      "player": "Vada Pinson",
+      "ageThatYear": 24,
+      "hits": 204,
+      "year": 1963,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61ac",
+      "rank": 378,
+      "player": "Ross Youngs",
+      "ageThatYear": 23,
+      "hits": 204,
+      "year": 1920,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61c5",
+      "rank": 403,
+      "player": "Bill Terry",
+      "ageThatYear": 36,
+      "hits": 203,
+      "year": 1935,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61b2",
+      "rank": 384,
+      "player": "Cecil Cooper",
+      "ageThatYear": 33,
+      "hits": 203,
+      "year": 1983,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61bc",
+      "rank": 394,
+      "player": "Jimmy Johnston",
+      "ageThatYear": 33,
+      "hits": 203,
+      "year": 1923,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61af",
+      "rank": 381,
+      "player": "Jesse Burkett",
+      "ageThatYear": 31,
+      "hits": 203,
+      "year": 1900,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61bb",
+      "rank": 393,
+      "player": "Jimmy Johnston",
+      "ageThatYear": 31,
+      "hits": 203,
+      "year": 1921,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61c0",
+      "rank": 398,
+      "player": "Jackie Robinson",
+      "ageThatYear": 30,
+      "hits": 203,
+      "year": 1949,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61c4",
+      "rank": 402,
+      "player": "Miguel Tejada",
+      "ageThatYear": 30,
+      "hits": 203,
+      "year": 2004,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61b7",
+      "rank": 389,
+      "player": "Tony Gwynn",
+      "ageThatYear": 29,
+      "hits": 203,
+      "year": 1989,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61b8",
+      "rank": 390,
+      "player": "Rogers Hornsby",
+      "ageThatYear": 29,
+      "hits": 203,
+      "year": 1925,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61c7",
+      "rank": 405,
+      "player": "Joe Torre",
+      "ageThatYear": 29,
+      "hits": 203,
+      "year": 1970,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61b0",
+      "rank": 382,
+      "player": "Rod Carew",
+      "ageThatYear": 27,
+      "hits": 203,
+      "year": 1973,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61b9",
+      "rank": 391,
+      "player": "Woody Jensen",
+      "ageThatYear": 27,
+      "hits": 203,
+      "year": 1935,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61be",
+      "rank": 396,
+      "player": "Dale Mitchell",
+      "ageThatYear": 27,
+      "hits": 203,
+      "year": 1949,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61c3",
+      "rank": 401,
+      "player": "Stan Spence",
+      "ageThatYear": 27,
+      "hits": 203,
+      "year": 1942,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61c6",
+      "rank": 404,
+      "player": "Sam Thompson",
+      "ageThatYear": 27,
+      "hits": 203,
+      "year": 1887,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61c8",
+      "rank": 406,
+      "player": "Chase Utley",
+      "ageThatYear": 27,
+      "hits": 203,
+      "year": 2006,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61c9",
+      "rank": 407,
+      "player": "Billy Williams",
+      "ageThatYear": 27,
+      "hits": 203,
+      "year": 1965,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61ad",
+      "rank": 379,
+      "player": "Wade Boggs",
+      "ageThatYear": 26,
+      "hits": 203,
+      "year": 1984,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61b1",
+      "rank": 383,
+      "player": "Earle Combs",
+      "ageThatYear": 26,
+      "hits": 203,
+      "year": 1925,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61b4",
+      "rank": 386,
+      "player": "Hugh Duffy",
+      "ageThatYear": 26,
+      "hits": 203,
+      "year": 1893,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61bf",
+      "rank": 397,
+      "player": "Rafael Palmeiro",
+      "ageThatYear": 26,
+      "hits": 203,
+      "year": 1991,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61c1",
+      "rank": 399,
+      "player": "Jean Segura",
+      "ageThatYear": 26,
+      "hits": 203,
+      "year": 2016,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61ae",
+      "rank": 380,
+      "player": "Ryan Braun",
+      "ageThatYear": 25,
+      "hits": 203,
+      "year": 2009,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61c2",
+      "rank": 400,
+      "player": "Ruben Sierra",
+      "ageThatYear": 25,
+      "hits": 203,
+      "year": 1991,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61b6",
+      "rank": 388,
+      "player": "Hank Greenberg",
+      "ageThatYear": 24,
+      "hits": 203,
+      "year": 1935,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61ba",
+      "rank": 392,
+      "player": "Derek Jeter",
+      "ageThatYear": 24,
+      "hits": 203,
+      "year": 1998,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61bd",
+      "rank": 395,
+      "player": "Hank Leiber",
+      "ageThatYear": 24,
+      "hits": 203,
+      "year": 1935,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61b3",
+      "rank": 385,
+      "player": "Joe Cronin",
+      "ageThatYear": 23,
+      "hits": 203,
+      "year": 1930,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61b5",
+      "rank": 387,
+      "player": "Augie Galan",
+      "ageThatYear": 23,
+      "hits": 203,
+      "year": 1935,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61db",
+      "rank": 425,
+      "player": "Sam Rice",
+      "ageThatYear": 38,
+      "hits": 202,
+      "year": 1928,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61e2",
+      "rank": 432,
+      "player": "Bobby Veach",
+      "ageThatYear": 34,
+      "hits": 202,
+      "year": 1922,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61d8",
+      "rank": 422,
+      "player": "Lefty O'Doul",
+      "ageThatYear": 33,
+      "hits": 202,
+      "year": 1930,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61ce",
+      "rank": 412,
+      "player": "Kiki Cuyler",
+      "ageThatYear": 32,
+      "hits": 202,
+      "year": 1931,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61ca",
+      "rank": 408,
+      "player": "Lou Brock",
+      "ageThatYear": 31,
+      "hits": 202,
+      "year": 1970,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61cb",
+      "rank": 409,
+      "player": "Roberto Clemente",
+      "ageThatYear": 31,
+      "hits": 202,
+      "year": 1966,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61d3",
+      "rank": 417,
+      "player": "Derek Jeter",
+      "ageThatYear": 31,
+      "hits": 202,
+      "year": 2005,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61de",
+      "rank": 428,
+      "player": "Milt Stock",
+      "ageThatYear": 31,
+      "hits": 202,
+      "year": 1925,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61e1",
+      "rank": 431,
+      "player": "Jack Tobin",
+      "ageThatYear": 31,
+      "hits": 202,
+      "year": 1923,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61cc",
+      "rank": 410,
+      "player": "Earle Combs",
+      "ageThatYear": 30,
+      "hits": 202,
+      "year": 1929,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61e3",
+      "rank": 433,
+      "player": "Bernie Williams",
+      "ageThatYear": 30,
+      "hits": 202,
+      "year": 1999,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61d0",
+      "rank": 414,
+      "player": "Steve Garvey",
+      "ageThatYear": 29,
+      "hits": 202,
+      "year": 1978,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61d5",
+      "rank": 419,
+      "player": "Willie Keeler",
+      "ageThatYear": 29,
+      "hits": 202,
+      "year": 1901,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61cd",
+      "rank": 411,
+      "player": "Doc Cramer",
+      "ageThatYear": 28,
+      "hits": 202,
+      "year": 1934,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61d2",
+      "rank": 416,
+      "player": "Shoeless Joe Jackson",
+      "ageThatYear": 28,
+      "hits": 202,
+      "year": 1916,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61d6",
+      "rank": 420,
+      "player": "Bill Lamar",
+      "ageThatYear": 28,
+      "hits": 202,
+      "year": 1925,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61e0",
+      "rank": 430,
+      "player": "Jack Tobin",
+      "ageThatYear": 28,
+      "hits": 202,
+      "year": 1920,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61d4",
+      "rank": 418,
+      "player": "Alex Johnson",
+      "ageThatYear": 27,
+      "hits": 202,
+      "year": 1970,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61da",
+      "rank": 424,
+      "player": "Carl Reynolds",
+      "ageThatYear": 27,
+      "hits": 202,
+      "year": 1930,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61dd",
+      "rank": 427,
+      "player": "Shannon Stewart",
+      "ageThatYear": 27,
+      "hits": 202,
+      "year": 2001,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61df",
+      "rank": 429,
+      "player": "Fresco Thompson",
+      "ageThatYear": 27,
+      "hits": 202,
+      "year": 1929,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61dc",
+      "rank": 426,
+      "player": "Chick Stahl",
+      "ageThatYear": 26,
+      "hits": 202,
+      "year": 1899,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc3b833cbda3d6f61cf",
+      "rank": 413,
+      "player": "Woody English",
+      "ageThatYear": 25,
+      "hits": 202,
+      "year": 1931,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61d7",
+      "rank": 421,
+      "player": "Wally Moses",
+      "ageThatYear": 25,
+      "hits": 202,
+      "year": 1936,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61d1",
+      "rank": 415,
+      "player": "Vladimir Guerrero",
+      "ageThatYear": 23,
+      "hits": 202,
+      "year": 1998,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61d9",
+      "rank": 423,
+      "player": "Juan Pierre",
+      "ageThatYear": 23,
+      "hits": 202,
+      "year": 2001,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61ea",
+      "rank": 440,
+      "player": "Bill Buckner",
+      "ageThatYear": 35,
+      "hits": 201,
+      "year": 1985,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61e8",
+      "rank": 438,
+      "player": "Eddie Brown",
+      "ageThatYear": 34,
+      "hits": 201,
+      "year": 1926,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f620a",
+      "rank": 472,
+      "player": "George Sisler",
+      "ageThatYear": 34,
+      "hits": 201,
+      "year": 1927,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f620e",
+      "rank": 476,
+      "player": "Honus Wagner",
+      "ageThatYear": 34,
+      "hits": 201,
+      "year": 1908,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f620f",
+      "rank": 477,
+      "player": "Zack Wheat",
+      "ageThatYear": 34,
+      "hits": 201,
+      "year": 1922,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61e9",
+      "rank": 439,
+      "player": "Bill Buckner",
+      "ageThatYear": 32,
+      "hits": 201,
+      "year": 1982,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61f0",
+      "rank": 446,
+      "player": "Julio Franco",
+      "ageThatYear": 32,
+      "hits": 201,
+      "year": 1991,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61f2",
+      "rank": 448,
+      "player": "Charlie Gehringer",
+      "ageThatYear": 32,
+      "hits": 201,
+      "year": 1935,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f61f7",
+      "rank": 453,
+      "player": "Dick Groat",
+      "ageThatYear": 32,
+      "hits": 201,
+      "year": 1963,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f61fa",
+      "rank": 456,
+      "player": "Harry Heilmann",
+      "ageThatYear": 32,
+      "hits": 201,
+      "year": 1927,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6205",
+      "rank": 467,
+      "player": "Dustin Pedroia",
+      "ageThatYear": 32,
+      "hits": 201,
+      "year": 2016,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61e6",
+      "rank": 436,
+      "player": "Matty Alou",
+      "ageThatYear": 31,
+      "hits": 201,
+      "year": 1970,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61e7",
+      "rank": 437,
+      "player": "Garret Anderson",
+      "ageThatYear": 31,
+      "hits": 201,
+      "year": 2003,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6212",
+      "rank": 480,
+      "player": "Michael Young",
+      "ageThatYear": 30,
+      "hits": 201,
+      "year": 2007,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61e4",
+      "rank": 434,
+      "player": "Hank Aaron",
+      "ageThatYear": 29,
+      "hits": 201,
+      "year": 1963,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61ed",
+      "rank": 443,
+      "player": "Ty Cobb",
+      "ageThatYear": 29,
+      "hits": 201,
+      "year": 1916,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61ee",
+      "rank": 444,
+      "player": "Taylor Douthit",
+      "ageThatYear": 29,
+      "hits": 201,
+      "year": 1930,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61f3",
+      "rank": 449,
+      "player": "Dee Gordon",
+      "ageThatYear": 29,
+      "hits": 201,
+      "year": 2017,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f61f9",
+      "rank": 455,
+      "player": "Billy Hamilton",
+      "ageThatYear": 29,
+      "hits": 201,
+      "year": 1895,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6209",
+      "rank": 471,
+      "player": "Al Rosen",
+      "ageThatYear": 29,
+      "hits": 201,
+      "year": 1953,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f620b",
+      "rank": 473,
+      "player": "Moose Solters",
+      "ageThatYear": 29,
+      "hits": 201,
+      "year": 1935,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6202",
+      "rank": 464,
+      "player": "Irish Meusel",
+      "ageThatYear": 28,
+      "hits": 201,
+      "year": 1921,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6206",
+      "rank": 468,
+      "player": "Mike Piazza",
+      "ageThatYear": 28,
+      "hits": 201,
+      "year": 1997,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f620c",
+      "rank": 474,
+      "player": "Joe Vosmik",
+      "ageThatYear": 28,
+      "hits": 201,
+      "year": 1938,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61f1",
+      "rank": 447,
+      "player": "Charlie Gehringer",
+      "ageThatYear": 27,
+      "hits": 201,
+      "year": 1930,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6201",
+      "rank": 463,
+      "player": "Joe Medwick",
+      "ageThatYear": 27,
+      "hits": 201,
+      "year": 1939,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61eb",
+      "rank": 441,
+      "player": "Melky Cabrera",
+      "ageThatYear": 26,
+      "hits": 201,
+      "year": 2011,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61ec",
+      "rank": 442,
+      "player": "Roberto Clemente",
+      "ageThatYear": 26,
+      "hits": 201,
+      "year": 1961,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61ef",
+      "rank": 445,
+      "player": "Nellie Fox",
+      "ageThatYear": 26,
+      "hits": 201,
+      "year": 1954,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f61f8",
+      "rank": 454,
+      "player": "Mark Grudzielanek",
+      "ageThatYear": 26,
+      "hits": 201,
+      "year": 1996,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f61fb",
+      "rank": 457,
+      "player": "Charlie Hollocher",
+      "ageThatYear": 26,
+      "hits": 201,
+      "year": 1922,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f61fc",
+      "rank": 458,
+      "player": "Ender Inciarte",
+      "ageThatYear": 26,
+      "hits": 201,
+      "year": 2017,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f61fd",
+      "rank": 459,
+      "player": "Derek Jeter",
+      "ageThatYear": 26,
+      "hits": 201,
+      "year": 2000,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f61fe",
+      "rank": 460,
+      "player": "Roy Johnson",
+      "ageThatYear": 26,
+      "hits": 201,
+      "year": 1929,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6204",
+      "rank": 466,
+      "player": "Jo-Jo Moore",
+      "ageThatYear": 26,
+      "hits": 201,
+      "year": 1935,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6207",
+      "rank": 469,
+      "player": "Jim Rice",
+      "ageThatYear": 26,
+      "hits": 201,
+      "year": 1979,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f620d",
+      "rank": 475,
+      "player": "Honus Wagner",
+      "ageThatYear": 26,
+      "hits": 201,
+      "year": 1900,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6210",
+      "rank": 478,
+      "player": "Billy Williams",
+      "ageThatYear": 26,
+      "hits": 201,
+      "year": 1964,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6211",
+      "rank": 479,
+      "player": "Jack Wilson",
+      "ageThatYear": 26,
+      "hits": 201,
+      "year": 2004,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61f5",
+      "rank": 451,
+      "player": "Goose Goslin",
+      "ageThatYear": 25,
+      "hits": 201,
+      "year": 1926,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6200",
+      "rank": 462,
+      "player": "Austin McHenry",
+      "ageThatYear": 25,
+      "hits": 201,
+      "year": 1921,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6203",
+      "rank": 465,
+      "player": "Paul Molitor",
+      "ageThatYear": 25,
+      "hits": 201,
+      "year": 1982,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6208",
+      "rank": 470,
+      "player": "Alex Rodriguez",
+      "ageThatYear": 25,
+      "hits": 201,
+      "year": 2001,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61f4",
+      "rank": 450,
+      "player": "Goose Goslin",
+      "ageThatYear": 24,
+      "hits": 201,
+      "year": 1925,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61f6",
+      "rank": 452,
+      "player": "Hank Greenberg",
+      "ageThatYear": 23,
+      "hits": 201,
+      "year": 1934,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f61ff",
+      "rank": 461,
+      "player": "Harvey Kuenn",
+      "ageThatYear": 23,
+      "hits": 201,
+      "year": 1954,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc4b833cbda3d6f61e5",
+      "rank": 435,
+      "player": "Dick Allen",
+      "ageThatYear": 22,
+      "hits": 201,
+      "year": 1964,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6241",
+      "rank": 527,
+      "player": "Randy Velarde",
+      "ageThatYear": 36,
+      "hits": 200,
+      "year": 1999,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6224",
+      "rank": 498,
+      "player": "Doc Cramer",
+      "ageThatYear": 34,
+      "hits": 200,
+      "year": 1940,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f622e",
+      "rank": 508,
+      "player": "Lou Gehrig",
+      "ageThatYear": 34,
+      "hits": 200,
+      "year": 1937,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6237",
+      "rank": 517,
+      "player": "Rip Radcliff",
+      "ageThatYear": 34,
+      "hits": 200,
+      "year": 1940,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f623d",
+      "rank": 523,
+      "player": "Red Schoendienst",
+      "ageThatYear": 34,
+      "hits": 200,
+      "year": 1957,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6238",
+      "rank": 518,
+      "player": "Jim Rice",
+      "ageThatYear": 33,
+      "hits": 200,
+      "year": 1986,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f621e",
+      "rank": 492,
+      "player": "Lou Brock",
+      "ageThatYear": 32,
+      "hits": 200,
+      "year": 1971,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6229",
+      "rank": 503,
+      "player": "Chick Fullis",
+      "ageThatYear": 32,
+      "hits": 200,
+      "year": 1933,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6234",
+      "rank": 514,
+      "player": "Stan Musial",
+      "ageThatYear": 32,
+      "hits": 200,
+      "year": 1953,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6239",
+      "rank": 519,
+      "player": "Phil Rizzuto",
+      "ageThatYear": 32,
+      "hits": 200,
+      "year": 1950,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6218",
+      "rank": 486,
+      "player": "Albert Belle",
+      "ageThatYear": 31,
+      "hits": 200,
+      "year": 1998,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f622d",
+      "rank": 507,
+      "player": "Steve Garvey",
+      "ageThatYear": 31,
+      "hits": 200,
+      "year": 1980,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6230",
+      "rank": 510,
+      "player": "Vladimir Guerrero",
+      "ageThatYear": 31,
+      "hits": 200,
+      "year": 2006,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6236",
+      "rank": 516,
+      "player": "Placido Polanco",
+      "ageThatYear": 31,
+      "hits": 200,
+      "year": 2007,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f623f",
+      "rank": 525,
+      "player": "Al Simmons",
+      "ageThatYear": 31,
+      "hits": 200,
+      "year": 1933,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6221",
+      "rank": 495,
+      "player": "Rod Carew",
+      "ageThatYear": 30,
+      "hits": 200,
+      "year": 1976,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6223",
+      "rank": 497,
+      "player": "Ripper Collins",
+      "ageThatYear": 30,
+      "hits": 200,
+      "year": 1934,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f621a",
+      "rank": 488,
+      "player": "Wade Boggs",
+      "ageThatYear": 29,
+      "hits": 200,
+      "year": 1987,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6226",
+      "rank": 500,
+      "player": "Ed Delahanty",
+      "ageThatYear": 29,
+      "hits": 200,
+      "year": 1897,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f623a",
+      "rank": 520,
+      "player": "Babe Ruth",
+      "ageThatYear": 29,
+      "hits": 200,
+      "year": 1924,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f623e",
+      "rank": 524,
+      "player": "Al Simmons",
+      "ageThatYear": 29,
+      "hits": 200,
+      "year": 1931,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc7b833cbda3d6f6246",
+      "rank": 532,
+      "player": "Bill White",
+      "ageThatYear": 29,
+      "hits": 200,
+      "year": 1963,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f623b",
+      "rank": 521,
+      "player": "Freddy Sanchez",
+      "ageThatYear": 28,
+      "hits": 200,
+      "year": 2006,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6217",
+      "rank": 485,
+      "player": "Buddy Bell",
+      "ageThatYear": 27,
+      "hits": 200,
+      "year": 1979,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f621c",
+      "rank": 490,
+      "player": "Michael Brantley",
+      "ageThatYear": 27,
+      "hits": 200,
+      "year": 2014,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f621f",
+      "rank": 493,
+      "player": "Dick Burrus",
+      "ageThatYear": 27,
+      "hits": 200,
+      "year": 1925,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6220",
+      "rank": 494,
+      "player": "Robinson Cano",
+      "ageThatYear": 27,
+      "hits": 200,
+      "year": 2010,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f622a",
+      "rank": 504,
+      "player": "Ralph Garr",
+      "ageThatYear": 27,
+      "hits": 200,
+      "year": 1973,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f622c",
+      "rank": 506,
+      "player": "Steve Garvey",
+      "ageThatYear": 27,
+      "hits": 200,
+      "year": 1976,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6216",
+      "rank": 484,
+      "player": "Home Run Baker",
+      "ageThatYear": 26,
+      "hits": 200,
+      "year": 1912,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6222",
+      "rank": 496,
+      "player": "Joe Carter",
+      "ageThatYear": 26,
+      "hits": 200,
+      "year": 1986,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6225",
+      "rank": 499,
+      "player": "Ed Delahanty",
+      "ageThatYear": 26,
+      "hits": 200,
+      "year": 1894,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f622f",
+      "rank": 509,
+      "player": "Hank Greenberg",
+      "ageThatYear": 26,
+      "hits": 200,
+      "year": 1937,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6232",
+      "rank": 512,
+      "player": "Chuck Klein",
+      "ageThatYear": 26,
+      "hits": 200,
+      "year": 1931,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc7b833cbda3d6f6244",
+      "rank": 530,
+      "player": "Paul Waner",
+      "ageThatYear": 26,
+      "hits": 200,
+      "year": 1929,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc7b833cbda3d6f6245",
+      "rank": 531,
+      "player": "Billy Werber",
+      "ageThatYear": 26,
+      "hits": 200,
+      "year": 1934,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc7b833cbda3d6f6248",
+      "rank": 534,
+      "player": "Ross Youngs",
+      "ageThatYear": 26,
+      "hits": 200,
+      "year": 1923,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6214",
+      "rank": 482,
+      "player": "Jose Altuve",
+      "ageThatYear": 25,
+      "hits": 200,
+      "year": 2015,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6219",
+      "rank": 487,
+      "player": "Adrian Beltre",
+      "ageThatYear": 25,
+      "hits": 200,
+      "year": 2004,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f621d",
+      "rank": 491,
+      "player": "Lou Brock",
+      "ageThatYear": 25,
+      "hits": 200,
+      "year": 1964,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6228",
+      "rank": 502,
+      "player": "Curt Flood",
+      "ageThatYear": 25,
+      "hits": 200,
+      "year": 1963,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f622b",
+      "rank": 505,
+      "player": "Steve Garvey",
+      "ageThatYear": 25,
+      "hits": 200,
+      "year": 1974,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6242",
+      "rank": 528,
+      "player": "Jose Vidro",
+      "ageThatYear": 25,
+      "hits": 200,
+      "year": 2000,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6215",
+      "rank": 483,
+      "player": "Carlos Baerga",
+      "ageThatYear": 24,
+      "hits": 200,
+      "year": 1993,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f621b",
+      "rank": 489,
+      "player": "Bobby Bonds",
+      "ageThatYear": 24,
+      "hits": 200,
+      "year": 1970,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6227",
+      "rank": 501,
+      "player": "Elmer Flick",
+      "ageThatYear": 24,
+      "hits": 200,
+      "year": 1900,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6235",
+      "rank": 515,
+      "player": "John Olerud",
+      "ageThatYear": 24,
+      "hits": 200,
+      "year": 1993,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f623c",
+      "rank": 522,
+      "player": "Ryne Sandberg",
+      "ageThatYear": 24,
+      "hits": 200,
+      "year": 1984,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc7b833cbda3d6f6247",
+      "rank": 533,
+      "player": "Pinky Whitney",
+      "ageThatYear": 24,
+      "hits": 200,
+      "year": 1929,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6233",
+      "rank": 513,
+      "player": "Barney McCosky",
+      "ageThatYear": 23,
+      "hits": 200,
+      "year": 1940,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc5b833cbda3d6f6213",
+      "rank": 481,
+      "player": "Hank Aaron",
+      "ageThatYear": 22,
+      "hits": 200,
+      "year": 1956,
+      "bats": "R"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6243",
+      "rank": 529,
+      "player": "Dick Wakefield",
+      "ageThatYear": 22,
+      "hits": 200,
+      "year": 1943,
+      "bats": "L"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6240",
+      "rank": 526,
+      "player": "Garry Templeton",
+      "ageThatYear": 21,
+      "hits": 200,
+      "year": 1977,
+      "bats": "B"
+    },
+    {
+      "id": "67933dc6b833cbda3d6f6231",
+      "rank": 511,
+      "player": "Al Kaline",
+      "ageThatYear": 20,
+      "hits": 200,
+      "year": 1955,
+      "bats": "R"
+    }
+  ]
