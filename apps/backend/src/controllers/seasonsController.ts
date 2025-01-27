@@ -20,6 +20,7 @@ export const index = asyncHandler(async (req, res) => {
     }, []);
     res.json({ data: years });
   } catch (error) {
+    console.error(error);
     res.status(400).json({ error });
   }
 });

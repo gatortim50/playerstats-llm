@@ -8,7 +8,7 @@ const prisma = new PrismaClient();
 const querySchema = z.object({
   page: z.string().regex(/^\d+$/).transform(Number),
   take: z.string().regex(/^\d+$/).transform(Number),
-  year: z.string().regex(/^\d+$/).transform(Number),
+  year: z.string().regex(/^\d+$/).transform(Number).optional(),
 });
 
 const playerStatsUpdateSchema = z.object({
@@ -39,8 +39,9 @@ export const index = asyncHandler(async (req, res) => {
         {ageThatYear: 'desc'},
       ],
     });
-    res.json({ data, error: {} });
+    res.json({ data });
   } catch (error) {
+    console.error(error);
     res.status(400).json({ error });
   }
 });
@@ -60,6 +61,7 @@ export const update = asyncHandler(async (req, res) => {
 
     res.status(200).json({ data });
   } catch (error) {
+    console.error(error);
     if (error instanceof z.ZodError) {
       // Handle validation errors
        res.status(400).json({ error: error.errors });
@@ -89,6 +91,7 @@ export const getDescription = asyncHandler(async (req, res) => {
       }      
     }    
   } catch (error) {
+    console.error(error);
     res.status(400).json({ error });
   }
 });
@@ -101,8 +104,9 @@ export const getTotalPage = asyncHandler(async (req, res) => {
         ...(year && { year }),
       },
     });
-    res.json({ data: Math.ceil(data / take), error: {} });
+    res.json({ data: Math.ceil(data / take) });
   } catch (error) {
+    console.error(error);
     res.status(400).json({ error });
   }
 });
@@ -115,8 +119,9 @@ export const getPlayer = asyncHandler(async (req, res) => {
         id,
       },
     });
-    res.json({ data, error: {} });
+    res.json({ data });
   } catch (error) {
+    console.error(error);
     res.status(400).json({ error });
   }
 })
