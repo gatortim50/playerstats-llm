@@ -14,7 +14,7 @@ const router = express.Router();
  *       - in: query
  *         name: year
  *         required: false
- *         description: Filter players by year.
+ *         description: Filter players by year. Here 0 means to select all years.
  *         schema:
  *           type: number
  *       - in: query
@@ -80,7 +80,7 @@ router.get('/?', index);
  *       - in: query
  *         name: year
  *         required: false
- *         description: Filter the stats by a specific year.
+ *         description: Filter the stats by a specific year. Here 0 means to select all years.
  *         schema:
  *           type: integer
  *           example: 2023
