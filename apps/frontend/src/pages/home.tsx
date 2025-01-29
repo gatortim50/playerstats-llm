@@ -56,7 +56,7 @@ function Home() {
             nextLabel="Next"
             onPageChange={handlePageClick}
             pageRangeDisplayed={1}
-            pageCount={pageCount}
+            pageCount={pageCount || 0}
             previousLabel="Prev"
             renderOnZeroPageCount={null}
             marginPagesDisplayed={2}

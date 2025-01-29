@@ -4,7 +4,6 @@ import { Card, CardContent, CardHeader, CardTitle } from './ui/card';
 
 const StreamedData = ({ id }: { id: string }) => {
     const [response, setResponse] = useState<string>('');
-    const [loading, setLoading] = useState<boolean>(true);
 
     useEffect(() => {
         const fetchStreamedData = async () => {
@@ -16,7 +15,6 @@ const StreamedData = ({ id }: { id: string }) => {
 
                 if (!response.body) {
                     console.error('No response body');
-                    setLoading(false);
                     return;
                 }
 
@@ -31,8 +29,6 @@ const StreamedData = ({ id }: { id: string }) => {
                 }
             } catch (error) {
                 console.error('Error fetching streamed data:', error);
-            } finally {
-                setLoading(false);
             }
         };
 
